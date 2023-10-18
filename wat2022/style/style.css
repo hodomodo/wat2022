@@ -1,0 +1,51 @@
+body{
+font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+#selector{
+    font: Monaco
+
+
+}
+
+.sentence{
+    letter-spacing: 5px;
+    color: purple;
+}
+
+h3{
+    font: bold;
+}
+
+
+table, tbh, table2{
+
+}
+
+td {
+    border: 3px solid green;
+    padding: 15px;
+}
+
+.boxmodel {
+    border: 3px solid green;
+    background: grey;
+    text-align: center;
+}
+
+.borderspacing {
+    border-collapse: separate;
+    border-spacing: 80px 0px;
+}
+
+.borderspacing1 {
+    border-spacing: 40px 0px;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+}
+
+table{
+}
